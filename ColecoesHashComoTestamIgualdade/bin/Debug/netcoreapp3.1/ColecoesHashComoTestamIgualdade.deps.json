@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ColecoesHashComoTestamIgualdade/1.0.0": {
+        "runtime": {
+          "ColecoesHashComoTestamIgualdade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ColecoesHashComoTestamIgualdade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
